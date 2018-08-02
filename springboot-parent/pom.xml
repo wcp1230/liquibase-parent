@@ -10,7 +10,7 @@
 		<groupId>org.springframework.cloud</groupId>
 		<artifactId>spring-cloud-starter-parent</artifactId>
 		<version>Finchley.RELEASE</version>
-		<relativePath />
+		
 	</parent>
 	<modules>
 		<module>liquibase-sql-demo</module>
